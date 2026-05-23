@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZK Creative Process"
+  short_description: "Reference-video deconstruction and product mapping"
+  default_prompt: "Use $zk-creative-process single for one game ad reference video, or $zk-creative-process mix for a same-direction batch. Fill product-brief-产品信息.md before mapping into your own product."
