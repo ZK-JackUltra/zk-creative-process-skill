@@ -1,0 +1,9 @@
+.tmp/
+creative-materials/
+*.mp4
+!shower.mp4
+*.mov
+*.mkv
+*.webm
+*.avi
+keyframes-work/
